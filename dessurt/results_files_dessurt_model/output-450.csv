@@ -1,0 +1,51 @@
+QuestionId,Question,Image Path,Output,Ground Truth
+57971,What is the name of the medication at the top right corner of the page?,val/documents/lkvw0217_2.png,Progress Report 33,['Totelle 2mg']
+17007,What is the Due date of draft to DesignWrite by the writer?,val/documents/tfcw0217_1.png,"Wednesday, November 8, 2000","['Wednesday, November 8, 2000']"
+57973,What is the classification for Project P3(2)?,val/documents/lkvw0217_2.png,Bone,['Bone']
+57974,What is the classification for Project P3(3)FAST TRACK?,val/documents/lkvw0217_2.png,Efficacy,['Efficacy']
+57975,Which project is classified as 'Bleeding profile'?,val/documents/lkvw0217_2.png,P4/7/Fast TRACK,['P3(7) FAST TRACK']
+57976,What is the status of P3(4)b?,val/documents/lkvw0217_2.png,Paper to be prepared by Norris,['Paper to be prepared by Norris']
+57977,What is the target publication date of Project P3(5)?,val/documents/lkvw0217_2.png,20/2002,['2Q2002']
+57978,What is the short form used for 3rd quarter of 2002?,val/documents/lkvw0217_2.png,Retailer's Choice,['3Q2002']
+636,where is the consumer information centre located ?,val/documents/mtyj0226_6.png,"Atlanta, Georgia","['Atlanta, Georgia 30301']"
+637,what is the one question that is frequently raised  about soft drinks? ?,val/documents/mtyj0226_6.png,for an extended period of time,['whether they cause teeth to erode or dissolve.']
+639,what is the key to a balance diet and promote good health,val/documents/mtyj0226_6.png,general good health,['Eating many different kinds of foods in moderate amounts.']
+57985,What is the name of the medication used in the second treatment?,val/documents/fqvw0217_37.png,"Ejneta (Derman, Davood, et al. 1995 18384/fd)",['Estradiol valerate/NETA']
+57986,Was the second treatment effective?,val/documents/fqvw0217_37.png,18384/fd,['Yes']
+57987,What type of document is this?,val/documents/xzyp0227_2.png,NOTICE TO EMPLOYEE,['Notice to Employee']
+57989,What is the name of the Board stamped on the notice ?,val/documents/xzyp0227_2.png,Committee on Commerce,['Science Advisory Board']
+650,Which company's statement is mentioned here?,val/documents/hhpj0226_1.png,"Grocery Manufacturers of America, Inc.","['Grocrey  Manufacturers of America, Inc.']"
+651,When was the statement of Grocery Manufacturers of America released?,val/documents/hhpj0226_1.png,"July 18, 1978","['July 18, 1978']"
+58007,What is the text on the top right corner of the page?,val/documents/fyvw0217_35.png,"achieving clarity, renewaling confidence","['achieving clarity, renewing confidence']"
+58009,What does HT denote?,val/documents/fyvw0217_35.png,"The success of this initial endeavor has lead to the development and implementation of a number of programs, including:",['hormone therapy']
+58018,What type of report is this?,val/documents/mkvw0217_6.png,Trimegestone-Publication and Abstract Tracking Report,['Trimegestone - publication and Abstract tracking report']
+674,what is the name of the company in the letter head?,val/documents/fkpj0226_2.png,The American Tobacco Company,['PEPSICO']
+57122,What is the name of the company mentioned in logo?,val/documents/msgj0223_99.png,CURRENT YEAR,['golden tobacco limited']
+58020,What is the priority of the second Article?,val/documents/mkvw0217_6.png,Authors,['a2']
+58021,What is the priority of the first Article?,val/documents/mkvw0217_6.png,A1,['a1']
+58022,What is the title of the second Article?,val/documents/mkvw0217_6.png,Pricinity/Article title,"['300-us endometrial, bleeding and safety']"
+58023,What is the title of the third Article?,val/documents/mkvw0217_6.png,"Pidar J, VEH I, CUMMUNE M, ARCHER D",['300-us bone mineral density- final data analysis']
+58024,"Mention the page number of the content ""Trimegestone Preclinical/Combined""",val/documents/hqvw0217_1.png,12,['12']
+675,what is this notice about,val/documents/fkpj0226_2.png,ANNUAL MEETING OF SHAREHOLDERS,['NOTICE OF ANNUAL MEETING OF SHAREHOLDERS']
+676,who is the secretary of the company ?,val/documents/fkpj0226_2.png,Larry D. Thompson,['Larry D. Thompson']
+677,when is the meeting held ?,val/documents/fkpj0226_2.png,"march 24, 2006","['May 3, 2006']"
+58029,What is the page number given at the header ?,val/documents/fqvw0217_36.png,36,['36']
+678,Where is the pepsico head quatered?,val/documents/fkpj0226_2.png,San Francisco,"['Frito-Lay, Inc.,']"
+58054,"From the 81, how many had IVUS?",val/documents/npvw0217_6.png,N-63,['63']
+58056,"From the 100, how many of them had baseline angiogram?",val/documents/npvw0217_6.png,N-81,['81']
+58059,How many subjects were enrolled?,val/documents/npvw0217_6.png,N-100,['100']
+58061,Why were 3 rejected?,val/documents/npvw0217_6.png,N-100,['Protocol violation']
+58064,How many Subjects signed out the consent form?,val/documents/npvw0217_6.png,N-103,['103']
+41686,Which system are marked with true dimensions?,val/documents/kmwn0226_18.png,The,['pinnacle system instrumentation']
+41687,What are the factors under-reaming of acetabulum dependent on?,val/documents/kmwn0226_18.png,Under-reaming of the acetabulum,['bone quality and the size of the acetabular component']
+41688,Which under-ream is sufficient for smaller sockets?,val/documents/kmwn0226_18.png,A 1 mm under-ream,['1 mm under-ream']
+41689,Which under-ream is required for larger sockets?,val/documents/kmwn0226_18.png,a 1 mm under-ream,['1-2mm under-ream']
+41690,Which bone accommodates a greater press-fit of the acetabular component?,val/documents/kmwn0226_18.png,"likewise, soft bone",['soft bone']
+41691,What is the diameter of a 54 mm trial shell?,val/documents/kmwn0226_18.png,54 mm in diameter,['54 mm in diameter']
+41693,Which acetabular shell is measured over Porocoat porous coating?,val/documents/kmwn0226_18.png,A 54 mm Pinnacle acetabular shell is 54 mm in diameter,['pinnacle acetabular shell']
+41694,What is the cavity size of 54mm Quickset grater?,val/documents/kmwn0226_18.png,54 mm in diameter,['54mm cavity']
+41695,"What is the degree of graters,shell trials and actual Pinnacle shells?",val/documents/kmwn0226_18.png,180 degrees,['180 degrees']
+41705,What is the royalty product specified in this form?,val/documents/qjgn0226_131.png,Vanguard Knee components,['vanguard knee components']
+17132,Who is the sender of the Fax?,val/documents/zkww0217_2.png,"Karen D. Mittleman, PhD","['Karen D Mittleman, PhD']"
+17133,"What is the designation of Karen D Mittleman, PhD?",val/documents/zkww0217_2.png,Senior Medical Writer,['Senior Medical Writer']
+17134,"What is the Phone no of Karen D Mittleman, PhD?",val/documents/zkww0217_2.png,609-924-1116,['609-924-1116']

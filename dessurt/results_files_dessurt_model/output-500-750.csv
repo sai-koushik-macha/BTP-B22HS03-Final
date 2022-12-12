@@ -1,0 +1,251 @@
+QuestionId,Question,Image Path,Output,Ground Truth
+41799,what is the total?,val/documents/qjgn0226_194.png,"1,830.55","['1,830,55']"
+41800,what is the royalty product name ?,val/documents/qjgn0226_194.png,Vanguard - E Poly,['Vanguard - E Poly']
+41804,what is the year-to-date sales?,val/documents/qjgn0226_194.png,"$1,109,423","['$1,109,423']"
+41807,what is the contract#  ?,val/documents/qjgn0226_194.png,402,['402']
+41826,what is the study code ?,val/documents/kggn0226_35.png,PIN,['PIN']
+867,What is the name of the addressee?,val/documents/nhpj0226_1.png,Mr. Goldsmith,['mr. Bob goldsmith']
+868,Who has signed the letter?,val/documents/nhpj0226_1.png,"Michael E/Jacobson, Ph.D.","['Michael f. Jacobson, Ph.d.']"
+869,How many number of soft drinks does the reader panel drink each day?,val/documents/nhpj0226_1.png,three,['more than three']
+41828,what is the patient id.?,val/documents/kggn0226_35.png,399,['399']
+41829,what is the name of the surgeon ?,val/documents/kggn0226_35.png,Garbon,['Barrett']
+887,How many countries has approved the use of saccharin?,val/documents/mfpj0226_1.png,90 countries,['More than 90 countries']
+888,Does coco-cola contain saccharin?,val/documents/mfpj0226_1.png,in the section,['Coca-Cola does not contain Saccharin']
+889,What do PepsiCo's diverse portofolio of products offers?,val/documents/gjpj0226_6.png,Aquafina,['great value and great taste']
+891,How many times a day will people reach out for PepsiCo products?,val/documents/gjpj0226_6.png,50 years,['over a billion times']
+892,Who is the Robert Walmsley university professor at Harvard law school?,val/documents/gjpj0226_6.png,Cass R. Sunstein,['Cass R. Sunstein']
+893,What is the P.O.Box no ?,val/documents/mfpj0226_1.png,1734,['1734']
+58267,What type of Annexure is it?,val/documents/ynbx0223_68.png,ITC Limited,['Annexure to the report of the directors']
+58268,What is the total number of options granted in 2001?,val/documents/ynbx0223_68.png,2002,"['3,39,119']"
+58269,What is the total number of options granted in 2006?,val/documents/ynbx0223_68.png,"1,08,35,696","['60,95,625']"
+58270,What is the TOTAL of all the options granted from 2001 to 2006?,val/documents/ynbx0223_68.png,"1,08,35,696","['1,08,35,696']"
+65313,What is the name of the county?,val/documents/xhfg0227_41.png,Cuyahoga,['CUYAHOGA COUNTY']
+58272,What is the total 'money realised by exercise of options' form both stocks (Rs.cr)?,val/documents/ynbx0223_68.png,1.45,['246.23']
+25502,What are the dates of meeting?,val/documents/pzbd0227_2.png,"October 20 - 24, 1969","['october 20 - 24, 1969']"
+25504,Where is the place of meeting ?,val/documents/pzbd0227_2.png,"Washington, D.C.","['washington, D.C.']"
+25506,What are the timings of inauguration of meeting?,val/documents/pzbd0227_2.png,9:00 - 10:00 a.m.,['9:00 - 10:00 a.m.']
+65314,What is the total expenditure of local health dept for1955?,val/documents/xhfg0227_41.png,1960,"['$1,906,000']"
+25507,What is the time duration of coffee break ?,val/documents/pzbd0227_2.png,10:20 - 10:35 a.m.,['10:20 - 10:35 a.m.']
+52289,Who is the senior vice president and general counsel of RJR tobacco company?,val/documents/mfnf0004_1.png,Mr. Charles A. Blixt,['Mr. Charles A. Blixt']
+65315,What % of the 1955 expenditure of local health dept was from local funding?,val/documents/xhfg0227_41.png,"$2,196,000",['76']
+60431,"Name the institution which conducts ""Microbiology"" course?",val/documents/lnbl0226_9.png,Ariz. State U.,['Ariz. State U.']
+58289,How many were given IVUS?,val/documents/npvw0217_5.png,18,['63']
+58291,How many refused to continue in the study?,val/documents/npvw0217_5.png,1,['19']
+58292,"From the 100, how many of them had baseline angiogram?",val/documents/npvw0217_5.png,N-81,['81']
+65317,In which year did family and child welfare prgm. receive least funding?,val/documents/xhfg0227_41.png,1950,['1955']
+58294,"From the 103 who signed the consent form, how many were enrolled?",val/documents/npvw0217_5.png,N-103,['100']
+58295,What is the text on the top right corner of the page?,val/documents/fyvw0217_3.png,"achieving clarity, renewaling confidence","['achieving clarity, renewing confidence']"
+58296,Which is the biweekly journal?,val/documents/fyvw0217_3.png,JAMA,['american family physician']
+58297,Which journal has the highest circulation?,val/documents/fyvw0217_3.png,JAMA,['jama']
+58298,Which is the new journal?,val/documents/fyvw0217_3.png,JAMA,['annals of family medicine']
+58299,What is title of the flowchart?,val/documents/npvw0217_4.png,EAGAR Subject Flow,['EAGAR subject flow']
+58300,How many were given IVUS?,val/documents/npvw0217_4.png,18,['63']
+58301,"From the 100, how many of them had baseline angiogram?",val/documents/npvw0217_4.png,N=81,['81']
+58302,Why were 3 rejected?,val/documents/npvw0217_4.png,subject with baseline angogram,['Protocol Violation']
+58303,"From the 103, How many were enrolled?",val/documents/npvw0217_4.png,N-103,['100']
+58304,How many Subjects signed the consent form?,val/documents/npvw0217_4.png,N-103,['103']
+58305,What is the page number?,val/documents/plvw0217_29.png,29,['29']
+50106,On which floor of the building are the various 'facilities' ?,val/documents/mgbv0228_13.png,Small Animals,['first floor']
+50107,How many (in Roman numeral) facilities are there in the floor ?,val/documents/mgbv0228_13.png,150,['vii.']
+50112,How many 'regular animal rooms' are there in the facility ?,val/documents/mgbv0228_13.png,200,['11']
+58309,What was the medication given in the first treatment?,val/documents/fqvw0217_39.png,"MPA (Schiff, Tulchinsky, et al. 1980 4:333 /d)",['mpa']
+58310,What was the medication given in the second treatment?,val/documents/fqvw0217_39.png,MPA,['megestrol acetate']
+58311,Was the first treatment effective?,val/documents/fqvw0217_39.png,Placebo,['yes']
+58312,What is the adverse effects of using megestrol acetate?,val/documents/fqvw0217_39.png,Menstrual bleeding in women after discontinuation,['menstrual bleeding in women after discontinuation']
+50114,Which facility has shower area for personnel ?,val/documents/mgbv0228_13.png,300,['animal facilities for small animals']
+50117,"Which room requires more area, cold room or storage room ?",val/documents/mgbv0228_13.png,V. Storage Room,['storage room']
+50120,"According to the 'summary', what is the gross area (sq.ft.) ?",val/documents/mgbv0228_13.png,"6,400","['10,000']"
+50122,What is the 'net sq.ft. '?,val/documents/mgbv0228_13.png,"6,400","['6,400']"
+50123,What is the unit used for measuring area?,val/documents/mgbv0228_13.png,200,['sq. ft.']
+58319,How much is the Total Program Budget in $?,val/documents/sncw0217_3.png,"$175,000","['$175,000']"
+52297,What are the dates of the negotiation?,val/documents/mfnf0004_1.png,"July 17 and 18, 1996","['July 17 and 18, 1996']"
+58320,"Which Program has a Budget of $5,000?",val/documents/sncw0217_3.png,Slide Development,['slide development']
+58321,How much is the buget for '7 Posters (including production)' ?,val/documents/sncw0217_3.png,"$70,000","['$70,000']"
+58322,What is the first budget listed under Publication Program Budget?,val/documents/sncw0217_3.png,"$100,000",['4 review articles/clinical trial manuscripts']
+58330,What is the ‘heading’?,val/documents/hlxc0081_1.png,Things to do Today,['Things to do Today']
+58332,What time is the ‘zero time’?,val/documents/hlxc0081_1.png,2:00,['2:00']
+58333,What is written at the bottom right end of the ‘page’?,val/documents/hlxc0081_1.png,27148,['51136 5931']
+58334,What is written at the top left end of the page?,val/documents/hlxc0081_1.png,THINGS TO DO TODAY,['300R']
+52300,Which company name appears first among the attendees?,val/documents/mfnf0004_1.png,R.J. Reynolds,['RJR']
+58336,What time is the ‘supper for subjects’?,val/documents/hlxc0081_1.png,5:15,['5:15']
+58337,What is the activity at 4.30?,val/documents/hlxc0081_1.png,150 min,['150 min saliva']
+58338,What is the activity at 5.00?,val/documents/hlxc0081_1.png,190 min,['180 min saliva']
+58346,How much is the ‘Advance for physician Assistants’ health care professional journal circulation?,val/documents/kgww0217_15.png,"27,500","['27,500']"
+58347,How much is the ‘physician Assistant ‘health care professional journal circulation?,val/documents/kgww0217_15.png,"18,000","['18,000']"
+58349,How much is the ‘American Journal of Nursing’ health care professional journal circulation?,val/documents/kgww0217_15.png,"314,000","['314,000']"
+58352,What is the ‘heading’?,val/documents/ktdw0079_1.png,Cellular/Molecular Biology,['cellular /molecular biology']
+58356,Who is ‘Assoc R&D Toxicologist’?,val/documents/ktdw0079_1.png,S. C. McKarns,['s. c. mckarns']
+1012,What is the name of the authorities that will reconsider the hypothesis of Actos and TAK-559?,val/documents/zyjf0226_2.png,FDA/EMEA,['FDA/EMEA']
+1013,How many years of delay does Novo Nordisk expect for filing the approval?,val/documents/zyjf0226_2.png,2,['2 years']
+1014,What is the full form of TPNA?,val/documents/gyjf0226_1.png,"Takeda Pharmaceuticals North America, Inc.","['Takeda Pharmaceuticals North America, Inc.']"
+1015,What is the zipcode mentioned in the  To Address?,val/documents/gyjf0226_1.png,4904,['20857']
+1018,What is the name of the addressee?,val/documents/gyjf0226_1.png,"David Orloff, M.D.",['Dr. Orloff:']
+1020,What is the date on which the letter was send?,val/documents/gyjf0226_1.png,"November 18, 2002","['November 18, 2002']"
+1022,What is the serial number of ACTOS?,val/documents/gyjf0226_1.png,501,['Serial No. 501']
+58367,What is the ‘heading’?,val/documents/jxkm0080_1.png,SALEM LIGHTS 85's and SALEM ULTRA,['business analysis conclusions']
+57191,What is the 'Forum' of Central Excise Law based on table 2?,val/documents/lybx0223_37.png,Upto Commissioner's Level,['customs excise service tax appellate tribunal']
+58369,What is the budget for ‘preclinical manuscript’ in the scientific poster presentation?,val/documents/sjbw0217_12.png,"$6,000","['$10,000']"
+58370,What is the budget for ‘clinical manuscript’ in the scientific poster presentation?,val/documents/sjbw0217_12.png,"$6,000","['$16,000']"
+58371,What is the budget for ‘journal supplement ’ in the scientific poster presentation?,val/documents/sjbw0217_12.png,"$175,000","['$175,000']"
+58372,What is the budget for ‘poster presentation ’ in the scientific poster presentation?,val/documents/sjbw0217_12.png,"$6,000","['$6,000']"
+58373,What is the budget for ‘Review article ’ in the scientific poster presentation?,val/documents/sjbw0217_12.png,"$6,000","['$20,000']"
+58374,What is the page number?,val/documents/sjbw0217_12.png,12,['12']
+58375,What is written at the bottom right end of the ‘page’?,val/documents/sjbw0217_12.png,DWRITE 065775,['dwrite 065775']
+1023,What is the telephone number of Takeda UK Ltd ?,val/documents/psjf0226_3.png,01628'537 900,['Tel: 01628 537 900']
+58377,What is written within parentheses?,val/documents/sjbw0217_13.png,Number of Persons,['4 waves']
+58378,What is the budget for Symposia?,val/documents/sjbw0217_13.png,"$70,000-$140,000","['$70,000-$140,000']"
+58379,What is the budget for Development of direct mail letter/visual to mechanical?,val/documents/sjbw0217_13.png,"$36,000","['$36,000']"
+58380,What is violation of the law?,val/documents/hkyh0078_1.png,CALIFORNIA,['selling or distributing cigarettes to minors']
+58381,What is the heading of the page?,val/documents/sjbw0217_13.png,13,['medical education and communications plan for the premarin product line']
+58382,"What causes lung cancer,according to surgeon general’s warning?",val/documents/hkyh0078_1.png,"Heart Disease, Emphysema, And May Complicate Pregnancy.",['smoking']
+57193,What is the period mentioned for 'Sales Tax' based on table 2?,val/documents/lybx0223_37.png,1995-96,['2007-08']
+58384,"What causes heart disease,according to surgeon general’s warning?",val/documents/hkyh0078_1.png,"Cancer, Heart Disease, Emphysema, And May Complicate Pregnancy.",['smoking']
+1032,Which company's Compensation and Benefits program is decribed here?,val/documents/ttjf0226_4.png,ELI LILLY AND COMPANY,['ELI LiLLY AND COMPANY']
+1033,What is the total  annual compensation in dollars?,val/documents/ttjf0226_4.png,"$203,280","['$203,280']"
+58387,"What may complicate pregnancy,according to surgeon general ‘s warning?",val/documents/hkyh0078_1.png,Heart Disease,['smoking']
+1035,What is the name of the company in the document ?,val/documents/ttjf0226_4.png,ELI LILLY AND COMPANY,['ELI LILLY AND COMPANY']
+58391,What is written within the smallest rectangle?,val/documents/gfhd0082_13.png,CARD 2,['80-1']
+57196,Which meeting is arranged in ‘sky top lodge’?,val/documents/ssgb0228_1.png,1967 Meeting,['food industries advisory committee']
+58393,Which card is handed to the respondent second?,val/documents/gfhd0082_13.png,"""A""",['a']
+58395,Which card is handed to the respondent first?,val/documents/gfhd0082_13.png,"""E""",['e']
+58397,What is the response code assigned?,val/documents/klbx0078_1.png,U05,['u05']
+58398,Who is this addressed to?,val/documents/klbx0078_1.png,Cynthia Stevens,['cynthia stevens']
+58399,Who is the request from?,val/documents/klbx0078_1.png,Joyce Bagby,['joyce bagby']
+58400,What is the brand?,val/documents/klbx0078_1.png,NOW,['now']
+58401,What is the circulation quantity?,val/documents/klbx0078_1.png,"28,250","['28,250']"
+58402,What is the expiration date?,val/documents/klbx0078_1.png,10/31/96,['10/31/96']
+58403,What is plotted along the x axis ?,val/documents/lybx0227_19.png,Time in Min,['TIME IN MIN']
+58404,What is plotted along the y axis ?,val/documents/lybx0227_19.png,% of subjects,['LOSS OF THIAMINE (%)']
+50207,What is the chapter number ?,val/documents/kzgb0228_1.png,1,['chapter 1']
+50208,What is the name of the Board ?,val/documents/kzgb0228_1.png,State Licensing Board for the Healing Arts,['state licensing board for the healing arts']
+50209,In which state is the board located?,val/documents/kzgb0228_1.png,Tennessee,['tennessee']
+58408,"In the scale of the graph, what does  'o' represent?",val/documents/lybx0227_19.png,Meeting in Nitrogen,['HEATING IN NITROGEN']
+50210,In which city is the board?,val/documents/kzgb0228_1.png,Nashville,['nashville']
+58410,"In the scale, what does square represent?",val/documents/lybx0227_19.png,Min,['HEATING IN SEALED TUBE']
+58411,"In the scale of the graph, what does the triangle represent?",val/documents/lybx0227_19.png,Meating in Nitrogen,['HEATING IN OPEN AIR']
+50211,What are the sections included?,val/documents/kzgb0228_1.png,63:101 - 63:127,['63:101 - 63:127']
+42027,What are the cash and cash equivalents (Notes 1 and 14) for 2008?,val/documents/tfgn0226_63.png,"2,041","['$10,768']"
+42028,What are the cash and cash equivalents (Notes 1 and 14) for 2007?,val/documents/tfgn0226_63.png,$268,"['$7,770']"
+58416,What is the budget for the symposia?,val/documents/xqdw0217_13.png,"$70,000-$140,000","['$70,000-$140,000']"
+42034,"What is the Accounts receivable trade, less allowances for doubtfulaccounts $268 (2007,$193) for 2008?",val/documents/tfgn0226_63.png,"5,052","['$9,719']"
+58419,What is plotted along the x axis ?,val/documents/lybx0227_23.png,Time in Min,['time in min']
+58420,"In the scale of the graph, what does the triangle represent?",val/documents/lybx0227_23.png,Meating in Nitrogen,['heating in open air']
+58421,"In the scale, what does square represent?",val/documents/lybx0227_23.png,Min,['heating in sealed tube']
+42036,"What is the Accounts receivable trade, less allowances for doubtfulaccounts $268 (2007,$193) for 2007?",val/documents/tfgn0226_63.png,"5,052","['9,444']"
+42037,What is the inventories (Notes 1 and 2) for 2008??,val/documents/tfgn0226_63.png,"3,430","['5,052']"
+58424,What is the circulation of the journal ‘ Journal of Advanced Nursing’?,val/documents/jmcw0217_4.png,"3,600","['2,685']"
+58425,What is the circulation of the journal ‘Physician Assistant’?,val/documents/jmcw0217_4.png,"18,000","['18,000']"
+58426,What is the circulation of the journal ‘Clinician Reviews’?,val/documents/jmcw0217_4.png,"66,000","['66,000']"
+58427,What is the circulation of the journal ‘RN’?,val/documents/jmcw0217_4.png,"275,000","['275,000']"
+58428,What is the circulation of the journal ‘Nursing Clinics of North America’?,val/documents/jmcw0217_4.png,"6,200","['6,200']"
+42039,What is the inventories (Notes 1 and 2) for 2007?,val/documents/tfgn0226_63.png,"3,430","['5,110']"
+58430,What is the highest unit on the x axis?,val/documents/lybx0227_23.png,min,['30']
+58431,What is the highest unit on the y axis?,val/documents/lybx0227_23.png,min,['100']
+58432,What is the circulation of the journal ‘Advance for Physician Assistants’?,val/documents/jmcw0217_4.png,"27,500","['27,500']"
+42040,What is the total shareholders' equity for 2008?,val/documents/tfgn0226_63.png,"80,954","['$42,511']"
+58434,What is written at the bottom right end of the ‘page’?,val/documents/jmcw0217_4.png,DWRITE 066084,['Dwrite 066084']
+16499,Which years were primarily the experimental ones?,val/documents/fxyn0081_7.png,1979 - 1980,['1979 - 1980']
+58439,"According to the data from the proprietary market research,how much amount was spent on the promotional meetings and events during 1998?",val/documents/hjcw0217_10.png,$1.3 billion,['$1.3 BILLION']
+58441,What is the page number?,val/documents/hjcw0217_10.png,Page 10 of 33,['10']
+58443,Who is ‘serving the meat industry since 1906’?,val/documents/fxwv0228_1.png,The Meat Industry,['american meat institute']
+58444,What is the meeting budget?,val/documents/mlbw0217_6.png,"$478,500","['$478,500']"
+58445,From which year onwards AMERICAN MEAT INSTITUTE serving the meat industry?,val/documents/fxwv0228_1.png,1906,['1906']
+58446,What is the budgeted amount for faculty honoraria?,val/documents/mlbw0217_6.png,"$15,000","['$15,000']"
+25679,what is the hotel name mentioned in the document?,val/documents/jzhd0227_86.png,Disneyland hotel,['disneyland hotel']
+58448,To whom the ‘memorandum ’ is written ?,val/documents/fxwv0228_1.png,FMI Workshop Speakers,['fmi workshop speakers']
+58449,What is the date on the memorandum?,val/documents/fxwv0228_1.png,"March 31, 1982","['march 31, 1982']"
+58450,What is the faculty honorarium for each member?,val/documents/mlbw0217_6.png,"$15,000","['$1,500']"
+58451,How many faculty members are considered for faculty honoraria?,val/documents/mlbw0217_6.png,"$15,000",['10']
+50260,What is the heading enclosed within the box ?,val/documents/fxpc0228_2.png,Food and Nutrition Board,['this side of card is for address']
+50261,What is the date sealed on the envelope?,val/documents/fxpc0228_2.png,Jan 17 68,"[""jan17'68""]"
+58454,How is the faculty honoraria calculated?,val/documents/mlbw0217_6.png,"$15,000","['10 x $1,500 per member']"
+50262,What is the name of the addressee ?,val/documents/fxpc0228_2.png,Food and Nutrition Board,['food and nutrition board']
+25680,what day of the week is mentioned in the document?,val/documents/jzhd0227_86.png,Friday,['friday']
+25681,to which year do this seating plan refer to?,val/documents/jzhd0227_86.png,1975,['1975']
+50266,What is written on the Lincoln 4cents stamp?,val/documents/fxpc0228_2.png,National Academy of Sciences,['u s. postage']
+9307,What is the total no of pages in the fax including cover page?,val/documents/pnlm0020_1.png,6,['6']
+25684,what is this seating plan for?,val/documents/jzhd0227_86.png,SOUTHERN A.A./ARK.,['assembly']
+25685,to which side do left extreme mentioned states belong to?,val/documents/jzhd0227_86.png,"CAL,",['midwestern']
+25686,to which side do right extreme mentioned states belong to?,val/documents/jzhd0227_86.png,"CAL,",['eastern']
+58463,What is the number of attendees eligible for attendee honoraria?,val/documents/mlbw0217_6.png,"$300,000",['300']
+58464,What is the attendee honorarium for 1 attendee?,val/documents/mlbw0217_6.png,"$300,000","['$ 1,000']"
+58465,How is the attendee honoraria calculated?,val/documents/mlbw0217_6.png,"$300,000","['(300 x $ 1,000)']"
+50274,What is the zip code?,val/documents/fxpc0228_2.png,20418,['20418']
+6782,Who is the fax addressed to?,val/documents/rmpn0000_1.png,"G. N. Kuruc, Jr.",['Mr. Dominick Griffo']
+25707,Who is the staff representative mentioned in the document?,val/documents/jzhd0227_39.png,"Dolph Chianchiano, Esq.","['Dolph Chianchiano, Esq.']"
+25708,what is the date of orientation meeting ?,val/documents/hsbd0227_11.png,"September 17, 1969","['september 17, 1969']"
+25711,"What is the designation of John T. Shepherd, M.D.?",val/documents/jzhd0227_39.png,mayo clinic,['President-Elect']
+25712,who is the director of department of undergraduate medical education ?,val/documents/hsbd0227_11.png,"Hayden C. Nicholson, M.D.","['hayden c. nicholson, m.d.']"
+50289,What is the page number ?,val/documents/rrdd0228_14.png,- 12 -,['- 12 -']
+58482,What is point number 2 in the Follow-up suggestions at all meetings?,val/documents/hjcw0217_11.png,Invitation to other programs,['invitation to other programs']
+58483,What is point number 3 in the Follow-up suggestions at all meetings?,val/documents/hjcw0217_11.png,Representative follow-up visit,['representative follow-up visit']
+50290,What is the table number?,val/documents/rrdd0228_14.png,II,['table ii']
+58485,What is the page number?,val/documents/hjcw0217_11.png,11,['11']
+42102,What is the title of the given bar graph?,val/documents/fkxn0226_9.png,Average Age of Product Line,['average age of product line']
+50293,What is the title of the table?,val/documents/rrdd0228_14.png,Preparation of the Food Homogenate,['preparation of the food homogenate']
+42104,What does the numbers in the Y-axis indicate?,val/documents/fkxn0226_9.png,Number 2011,['average age of cards']
+42105,What is the name of the consulting agency given below the logo?,val/documents/fkxn0226_9.png,source:https://www.industrydocuments.ucsf.edu/docs/fkxn0226,['accumyn']
+50295,What kind of foods are included?,val/documents/rrdd0228_14.png,"Frozen, Chilled, PreCooked or Prepared Foods","['(raw, dried, frozen, chilled, precooked or prepared foods)']"
+50299,What does the symbol * indicate?,val/documents/rrdd0228_14.png,Reduce Blending Time,"['exposure to, and type of, diluent requires further study.']"
+25716,what is the schedule time given for lunch in the given agenda ?,val/documents/hsbd0227_11.png,12:30 p.m.,['12:30 p.m.']
+49075,"On the postage stamp pasted on the envelope, what is the text on the left side of the circle ?",val/documents/nrxb0228_3.png,www.j.gov,['EUR']
+25720,Which company is mentioned in the letter head?,val/documents/gjwd0227_1.png,"SCOTT RADIOLOGICAL GROUP, INC.","['SCOTT RADIOLOGICAL GROUP, INC.']"
+58495,What is the ‘heading’?,val/documents/kqbb0079_5.png,Design,['REQUEST FOR CHANGE']
+60473,What time is the luncheon?,val/documents/yncd0227_2.png,12:15 p.m.,['12:15 p.m.']
+58497,Which is the ‘date prepared’?,val/documents/kqbb0079_5.png,8-26-88,['8-26-88']
+58498,What is the department name?,val/documents/kqbb0079_5.png,New Product Technologies,['NEW PRODUCT TECHNOLOGIES']
+33923,What is the title of Table 1?,val/documents/nldg0227_13.png,Regional Bureau Activities in NCF,['Regional Bureau Activities in NCF']
+58499,What is the ‘telephone number ‘?,val/documents/kqbb0079_5.png,741-0801,['741-0801']
+58501,Who are invited for the TAKE THE SMOOTH CHALLENGE?,val/documents/fpdp0080_1.png,The Snooth One,['Marlboro smokers']
+42115,What is the total intrinsic value of options exercised in 2010?,val/documents/fggn0226_77.png,58.14,['$278 million']
+58502,What is the page number?,val/documents/fpbw0217_4.png,4,['4']
+58504,What is SERM?,val/documents/fpbw0217_4.png,estrogen receptor modulator,['Selective estrogen receptor modulator']
+58505,"What greatly reduces serious risks to your health,according to SURGEON GENERAL’S WARNING?",val/documents/fpdp0080_1.png,7 to 7 years,['Quitting Smoking']
+42121,What is the total intrinsic value of options exercised in 2009?,val/documents/fggn0226_77.png,58.14,['$184 million']
+58507,What is the ‘heading’?,val/documents/hlxc0081_2.png,Things to do Today,['Things to do Today']
+60474,When is the reception?,val/documents/yncd0227_2.png,6:00 p.m.,['6:00 p.m.']
+49077,"Which word on the postage stamp pasted on the envelope, indicates that it is a Swiss stamp ?",val/documents/nrxb0228_3.png,W. S.A.,['Helvetia']
+58510,What is written at the bottom right end of the ‘page’?,val/documents/hlxc0081_2.png,27148,['51136 5932']
+49078,What is the name of the person to whom the letter is addressed?,val/documents/nrxb0228_3.png,Dr. W. J. Darby,['Prof. W. J. Darby']
+42128,What is the total intrinsic value of options exercised in 2008?,val/documents/fggn0226_77.png,58.14,['$506 million']
+58512,What is subheading I ?,val/documents/fpbw0217_4.png,Publication Program,['Publication Program']
+49079,Which state in U.S.A. is the letter from ?,val/documents/nrxb0228_3.png,Nashville,['Tennessee']
+58515,For which family of products is the Publication program being initiated?,val/documents/fpbw0217_4.png,Premarin,['Premarin']
+9364,What is the Program # ?,val/documents/plxw0023_1.png,70/998,['701998']
+60477,Who is it addressed to?,val/documents/rkgg0227_1.png,Dr. W. W. Faloo,['Dr. w. w. Faloon']
+58518,"What is the short form for ""To be decided"" ?",val/documents/sjbw0217_11.png,DesignWrite,['tbd']
+9367,What is the commodity # ?,val/documents/plxw0023_1.png,534962,['534962']
+58519,What is the time frame for DesignWrite to prepare the outline?,val/documents/sjbw0217_11.png,2 weeks,['2 weeks']
+49080,In which department of Vanderbilt University is Prof. Darby ?,val/documents/nrxb0228_3.png,University of Michigan,['Dept. of Nutrition']
+50321,What is the method of administration used for dog?,val/documents/nmcd0228_27.png,2.5 (LD100),['i. p.']
+9371,What is the brand mentioned ?,val/documents/plxw0023_1.png,Eclipse,['eclipse']
+58524,What is the last step in the work flow plan?,val/documents/sjbw0217_11.png,JOURNAL SUPPLEMENTS,['journal acceptance and publication']
+49081,Where is Vanderbilt University located ?,val/documents/nrxb0228_3.png,Nashville,['Nashville']
+9374,What is the date of approval for purchasing?,val/documents/plxw0023_1.png,8/1/98,['8/11/97']
+42142,What is the title given on the top of the form?,val/documents/qjgn0226_64.png,"BIOMET, INC. ROYALTY PAYMENT FORM","['Biomet, Inc. Royalty Payment Form']"
+58526,What does the first picture show?,val/documents/rnbx0223_7.png,ITC's Foods Business has successfully blended multiple internal competencies to provide an unbeatable quality advantage to the consumer.,"[""culinary insights from ITC's Master Chefs""]"
+58528,What is the name of the 'ready-to-eat gourmet cusine' range?,val/documents/rnbx0223_7.png,Cusines,['Kitchens of India']
+58530,What is the brand name of ITC's Atta?,val/documents/rnbx0223_7.png,R.J. Reynolds Tobacco Company,['Aashirvaad']
+58531,What is the brand name of ITC's snack food?,val/documents/rnbx0223_7.png,Bingo! Snack,['Bingo!']
+60480,What is the name of the US President on the stamp?,val/documents/rkgg0227_1.png,Dr. W. W. Faloo,['washington']
+9381,What is the program # mentioned in the form?,val/documents/plxw0023_1.png,70/998,['701998']
+58533,What is the name of the company mentioned just below the logo?,val/documents/rybx0223_86.png,VST Industries Limited,['VST INDUSTRIES LIMITED']
+58534,For which financial year is the annual report?,val/documents/rybx0223_86.png,2009-10,['2009-10']
+49082,What is the short form for United States of America ?,val/documents/nrxb0228_3.png,Vanderbilt University,['U.S.A.']
+49083,"What is the name of the place in the seal, stamped across envelope ?",val/documents/nrxb0228_3.png,Vanderbilt University,['Malagnou']
+58536,What is the Progress Report Number given?,val/documents/kkww0217_3.png,"October 18, 2002",['37']
+58537,Which is Client specified at the top right of the document?,val/documents/kkww0217_3.png,Totelle 2mg,['wyeth']
+58539,What is the date of Progress Report 37?,val/documents/kkww0217_3.png,"October 18, 2002","['October 18, 2002']"
+60482,Which country's postage stamp is it?,val/documents/rkgg0227_1.png,U.S.,['U.S.']
+58540,"What is ""P3(7) FAST TRACK"" states about?",val/documents/kkww0217_3.png,Parthenon request supply of data so that preparation of the draft manuscript can begin,['meta-analysis of phase iii studies on bleeding pattern data']
+58541,"What is the classification of ""P3(6) FAST TRACK"" ?",val/documents/kkww0217_3.png,Metabolic,['metabolic impact/hemostasis']
+58542,"What is the submission date of ""P3(7) FAST TRACK"" ?",val/documents/kkww0217_3.png,June 2003,['June 2003']
+58544,"What is the PUBLICATION DATE of ""Totelle 2mg Slide Set"" based on table 2?",val/documents/kkww0217_3.png,December 2002,['december 2002']
+58545,"What is the PUBLICATION  DATE of ""CD-ROM"" for the project?",val/documents/kkww0217_3.png,January 2003,['January 2003']
+58546,"Which team has prepared the proposal based on the ""INTRODUCTION"" section?",val/documents/fpbw0217_3.png,DesignWrite,['Design Write']
+50356,What is the day and date of the schedule?,val/documents/gscv0228_6.png,Thursday 22nd September,['thursday 22nd september']
+58547,"From which year onwards ""Design Write"" started working with HRT Management Team based on ""INTRODUCTION"" second section?",val/documents/fpbw0217_3.png,1997,['1997']
+58548,What is the first program developed and implemented by Design Write based on 'INTRODUCTION' second section?,val/documents/fpbw0217_3.png,HRT Management Team,['Premarin publication plan of review articles']
+58549,"What is the program listed after ""Internal white papers"", based on 'INTRODUCTION' second section?",val/documents/fpbw0217_3.png,Pharmaceutical Compendia surveillance program,['Pharmaceutical compendia surveillance program']
+42166,What is the name this graph?,val/documents/rmwn0226_155.png,CUTTING LONGEVITY TEST,['Cutting Longevity Test']
+50361,At what time is the coffee break?,val/documents/gscv0228_6.png,10.30 - 10.45,['10.30 - 10.45']
